@@ -1,0 +1,52 @@
+{
+  "profile":{
+    "name":"mythil",
+    "email":"mythilchristin@gmail.com",
+    "mobile":"7337098897",
+    "image":"download.jpg",
+    "address":"vijayawada"
+  },
+  "career":{
+    "info":"to pursue a challenging career and be part of artficial intelligence"
+  },
+
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"PVP",
+      "data":["2016-20","80%"]
+    },
+    {
+      "degree":"intermediate",
+      "institute":"nri",
+      "data":["2014-16","88%"]
+    },
+    {
+      "degree":"s.s.c",
+      "institute":"st.xavier",
+      "data":["2014","92%"]
+    }
+  ],
+"skills":[
+  {
+  "title":"programming languages",
+"info": ["c","java"]
+},
+{
+  "title":"database",
+"info":["oracle","mysql"]
+}
+],
+"achievements":[
+  {
+    "achieveData":"got 1<sup>st</sup> prize for <strong> PPT presentation</strong>."
+  },
+  {
+    "achieveData":"got 2<sup>st</sup> prize for <strong> Group Discussion</strong>."
+  },
+  {
+    "achieveData":"got 3<sup>st</sup> prize for <strong> Flower Decoration</strong>."
+  }
+]
+
+}
